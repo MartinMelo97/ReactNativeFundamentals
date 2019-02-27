@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import { StyleSheet, Image } from 'react-native'
 
 export class Hero extends Component {
+    
     render(){
         return (
             <Image 
