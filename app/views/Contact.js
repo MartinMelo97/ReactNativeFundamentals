@@ -28,9 +28,10 @@ export class Contact extends Component {
     }
 
     render() {
+        const { navigate } = this.props.navigation
         return (
             <View style={styles.container}>
-                <Header message="Press to Login" />
+                <Header message="Press to Login" navigate={navigate}/>
                 <Text style={styles.heading}>Contact Us</Text>
 
                 <TextInput 
