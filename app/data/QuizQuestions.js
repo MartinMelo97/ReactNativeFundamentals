@@ -27,5 +27,14 @@ export const QuizData = {
             correctAnswer: 'answer2',
             key: '1C'
         },
+        {
+            question: "What is the name in Python from objects",
+            answer1: 'objects',
+            answer2: 'list',
+            answer3: 'arrays',
+            answer4: 'dicts',
+            correctAnswer: 'answer4',
+            key: '1D'
+        },
     ]
 }

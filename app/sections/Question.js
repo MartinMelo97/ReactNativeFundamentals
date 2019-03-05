@@ -60,7 +60,6 @@ export class Question extends Component {
                         <Text style={styles.answerText}>{this.props.answer2}</Text>
                         <Text style={styles.answerText}>{this.props.answer3}</Text>
                         <Text style={styles.answerText}>{this.props.answer4}</Text>
-                        <Text style={styles.answerText}>CORRECT</Text>
                         {this.state.correct ?
                             <Text style={styles.answerText}>CORRECT</Text>
                             :
