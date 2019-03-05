@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "globo",
-    "slug": "expo.io/@martinmelo/globo",
+    "slug": "globo-prod",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
